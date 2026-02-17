@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.d4cab6a4.css",
-    "main.js": "./static/js/main.cf4ae1d2.js",
+    "main.css": "./static/css/main.8f797f8a.css",
+    "main.js": "./static/js/main.cf3c633b.js",
     "static/js/453.b2f8a02c.chunk.js": "./static/js/453.b2f8a02c.chunk.js",
     "static/media/gallery1.jpg": "./static/media/gallery1.a4c8373d0032a2b36cac.jpg",
     "static/media/gallery4.jpg": "./static/media/gallery4.a11e23c20a730659bb3b.jpg",
@@ -14,12 +14,12 @@
     "static/media/cag-logo.png": "./static/media/cag-logo.a24ac5af93b74e872167.png",
     "static/media/ag-logo.png": "./static/media/ag-logo.d6a578666391e736bf66.png",
     "index.html": "./index.html",
-    "main.d4cab6a4.css.map": "./static/css/main.d4cab6a4.css.map",
-    "main.cf4ae1d2.js.map": "./static/js/main.cf4ae1d2.js.map",
+    "main.8f797f8a.css.map": "./static/css/main.8f797f8a.css.map",
+    "main.cf3c633b.js.map": "./static/js/main.cf3c633b.js.map",
     "453.b2f8a02c.chunk.js.map": "./static/js/453.b2f8a02c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4cab6a4.css",
-    "static/js/main.cf4ae1d2.js"
+    "static/css/main.8f797f8a.css",
+    "static/js/main.cf3c633b.js"
   ]
 }
