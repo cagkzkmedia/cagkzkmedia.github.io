@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.94b9a334.css",
-    "main.js": "./static/js/main.d8c0cdf2.js",
+    "main.css": "./static/css/main.6da6abff.css",
+    "main.js": "./static/js/main.a39b26fb.js",
     "static/js/453.b2f8a02c.chunk.js": "./static/js/453.b2f8a02c.chunk.js",
     "static/media/gallery1.jpg": "./static/media/gallery1.a4c8373d0032a2b36cac.jpg",
     "static/media/gallery4.jpg": "./static/media/gallery4.a11e23c20a730659bb3b.jpg",
@@ -17,15 +17,15 @@
     "static/media/pr-family.jpg": "./static/media/pr-family.5a17c637d664347b0985.jpg",
     "static/media/pastor-gladvin.jpg": "./static/media/pastor-gladvin.1a6756a08c262fddce0a.jpg",
     "static/media/pr-victor.jpg": "./static/media/pr-victor.bc747a8df7377c8df361.jpg",
-    "static/media/cag-logo.png": "./static/media/cag-logo.a24ac5af93b74e872167.png",
+    "static/media/cag-logo.png": "./static/media/cag-logo.11d36b664b06b673f3c7.png",
     "static/media/ag-logo.png": "./static/media/ag-logo.d6a578666391e736bf66.png",
     "index.html": "./index.html",
-    "main.94b9a334.css.map": "./static/css/main.94b9a334.css.map",
-    "main.d8c0cdf2.js.map": "./static/js/main.d8c0cdf2.js.map",
+    "main.6da6abff.css.map": "./static/css/main.6da6abff.css.map",
+    "main.a39b26fb.js.map": "./static/js/main.a39b26fb.js.map",
     "453.b2f8a02c.chunk.js.map": "./static/js/453.b2f8a02c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94b9a334.css",
-    "static/js/main.d8c0cdf2.js"
+    "static/css/main.6da6abff.css",
+    "static/js/main.a39b26fb.js"
   ]
 }
